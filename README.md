@@ -1,5 +1,10 @@
 # React native search bar animation with tab view and collapsing
 
+https://expo.io/@bogoslavskiy/search-bar-animation
+
+Soon there will be an article
+
+
 ## Demo
 
 ![](/demoGIF/ios_animation.gif)
