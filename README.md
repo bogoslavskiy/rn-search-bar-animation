@@ -4,6 +4,13 @@ https://expo.io/@bogoslavskiy/search-bar-animation
 
 Soon there will be an article
 
+Implementing smooth animation by using native driver.
+
+Tested on real devices
+- iPhone 4s
+- iPhone 5s
+- iPhone 8 Plus
+- iPhone X
 
 ## Demo
 
