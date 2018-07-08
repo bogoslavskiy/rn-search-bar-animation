@@ -2,7 +2,8 @@
 
 https://expo.io/@bogoslavskiy/search-bar-animation
 
-Soon there will be an article
+Article describing the code:
+https://medium.com/@bogoslavskiy/implementation-complex-animation-in-react-native-by-example-search-bar-with-tab-view-and-collapsing-68bb43be2dcb
 
 Implementing smooth animation by using native driver.
 
